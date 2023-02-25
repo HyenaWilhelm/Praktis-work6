@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTsNa3+9dVFYlN+M2l9BnFQL5y1DI9mvzmmboQ7R5pfv3KM9hC2BO86+RdhYPgASf7DB97/8o4ROKLZ/pNbCnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matve\\OneDrive\\Документы\\Си шарп\\Текстовый конвертер пр6\\Текстовый конвертер пр6\\Текстовый конвертер пр6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matve\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
